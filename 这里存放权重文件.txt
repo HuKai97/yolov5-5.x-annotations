@@ -1,2 +1,0 @@
-这里存放权重文件
-权重地址：https://github.com/ultralytics/yolov5/releases
