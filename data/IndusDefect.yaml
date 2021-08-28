@@ -1,0 +1,14 @@
+path: ../datasets/IndusDefect
+train: # train images (relative to 'path')  1354 images
+  - images/train
+val: # val images (relative to 'path')  339 images
+  - images/val
+test: # test images (optional)
+#  - images/val
+
+# Classes
+nc: 1  # number of classes
+names: [ 'defect']  # class names
+
+
+
