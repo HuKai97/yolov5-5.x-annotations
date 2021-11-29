@@ -1,6 +1,8 @@
 # yolov5-5.x-annotations
 一个基于yolov5-5.0的中文注释版本，供大家参考学习！
 
+A Chinese annotated version of yolov5-5.0
+
 # CSDN源码讲解导航
 YOLOV5-U
 
