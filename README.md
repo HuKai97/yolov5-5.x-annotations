@@ -4,7 +4,7 @@
 A Chinese annotated version of yolov5-5.0
 
 # CSDN源码讲解导航
-YOLOV5-U
+[YOLOV5-U](https://blog.csdn.net/qq_38253797/article/details/119043919)
 
 - data
   *  [hyp.scratch.yaml](https://blog.csdn.net/qq_38253797/article/details/119759746)
