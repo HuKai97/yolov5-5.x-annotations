@@ -417,7 +417,7 @@ def check_dataset(data, autodownload=True):
 
 # 4、没用到
 def download(url, dir='.', unzip=True, delete=True, curl=False, threads=1):
-    """没用到
+    """在voc.yaml中下载数据集
     Multi-threaded file download and unzip function
     :params url: 下载文件的url地址
     :params dir: 下载下来文件保存的目录
