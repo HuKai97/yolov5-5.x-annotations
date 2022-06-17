@@ -17,6 +17,7 @@ A Chinese annotated version of yolov5-5.0
    * [yolo.py](https://blog.csdn.net/qq_38253797/article/details/119869762)
    * [export.py](https://blog.csdn.net/qq_38253797/article/details/119887013)
    *  [yolov5s.yaml](https://blog.csdn.net/qq_38253797/article/details/119754854)
+
 - utils 
    * [autoanchor.py](https://blog.csdn.net/qq_38253797/article/details/119713706)
    * [datasets.py](https://blog.csdn.net/qq_38253797/article/details/119904518)
@@ -29,4 +30,6 @@ A Chinese annotated version of yolov5-5.0
 - [train.py](https://blog.csdn.net/qq_38253797/article/details/119733964)
 - [val(test).py](https://blog.csdn.net/qq_38253797/article/details/119577291)
 - [detect.py](https://blog.csdn.net/qq_38253797/article/details/119382661)
-
+- 其他功能
+   * [head解耦](https://blog.csdn.net/qq_38253797/article/details/124848744)
+   * [yolov5+shufflenetv2轻量化](https://blog.csdn.net/qq_38253797/article/details/124803531)
